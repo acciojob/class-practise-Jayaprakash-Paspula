@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-p.para1{
+.para1 ,.para3{
 	color: #00f;
 	background-color: #eee;
 }
-p.para3{
+/*p.para3{
 	color: #00f;
 	background-color: #eee;
-}
+}*/
